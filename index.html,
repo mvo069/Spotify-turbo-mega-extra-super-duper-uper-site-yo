@@ -1,0 +1,101 @@
+
+<html>
+    <head>
+    <title>Спотифай турбо мега экстра супер дупер пупер сайт,йоу</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="navbar">
+    <div class="logo">
+        <img src="spotify-logo.png" alt="Spotify">
+    </div>
+    <nav>
+        <a href="#">Premium</a>
+        <a href="#">Підтримка</a>
+        <a href="#">Завантажити</a>
+        <img src="profile.jpg" class="profile">
+    </nav>
+</header>
+
+
+<section class="hero" style="background-image: url('hero-image.jpg')">
+    <h1>Слухайте мільйони пісень і подкастів безкоштовно</h1>
+    <button>Зареєструватися безкоштовно</button>
+</section>
+
+
+<section class="features">
+    <h2>Переваги Spotify</h2>
+    <div class="feature-list">
+        <div class="feature">
+            <img src="icon-play.png">
+            <h3>Слухайте улюблену музику</h3>
+            <p>Насолоджуйтеся своїми музичними вподобаннями й відкривайте мільйони нових пісень і подкастів.</p>
+        </div>
+        <div class="feature">
+            <img src="icon-playlist.png">
+            <h3>Легко створюйте плейлісти</h3>
+            <p>Ми допоможемо створити плейлісти. Або ви можете оцінити добірки від наших експертів.</p>
+        </div>
+        <div class="feature">
+            <img src="icon-heart.png">
+            <h3>Продемонструйте свій смак</h3>
+            <p>Поділіться своїми вподобаннями, і ми порекомендуємо більше схожої музики.</p>
+        </div>
+        <div class="feature">
+            <img src="icon-bolt.png">
+            <h3>Економія мобільних даних</h3>
+            <p>Увімкніть економію трафіку в налаштуваннях і заощадьте мобільні дані.</p>
+        </div>
+    </div>
+</section>
+
+
+<section class="cats" style="background-color: #21d07a;">
+    <h2>Безкоштовно. Додавати кредитну карту не потрібно</h2>
+    <img src="cats.png" alt="Cats">
+</section>
+
+
+<section class="faq">
+    <h2>Маєте запитання?</h2>
+    <ul>
+        <li>Як створити плейліст?</li>
+        <li>Як увімкнути економію трафіку?</li>
+        <li>Музику можна слухати тільки у випадковому порядку?</li>
+        <li>Де знайти подкасти?</li>
+    </ul>
+</section>
+
+
+<section class="hero" style="background-image: url('girl-guitar.jpg')">
+    <h1>Готові? Нумо поїхали.</h1>
+    <button>Зареєструватися безкоштовно</button>
+</section>
+
+
+<footer>
+    <div class="footer-content">
+        <div>
+            <p><strong>Компанія</strong></p>
+            <a href="#">Про нас</a>
+            <a href="#">Вакансії</a>
+            <a href="#">For the Record</a>
+        </div>
+        <div>
+            <p><strong>Спільноти</strong></p>
+            <a href="#">Для виконавців</a>
+            <a href="#">Для розробників</a>
+            <a href="#">Для рекламодавців</a>
+        </div>
+        <div>
+            <p><strong>Корисні посилання</strong></p>
+            <a href="#">Підтримка</a>
+            <a href="#">Вебпрогравач</a>
+            <a href="#">Безкоштовний мобільний додаток</a>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>
